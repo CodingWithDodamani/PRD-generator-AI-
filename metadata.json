@@ -1,0 +1,5 @@
+{
+  "name": "PRD Generator AI",
+  "description": "An application that transforms simple user ideas into detailed product requirement documents (PRDs) for web applications, mobile applications, or tools using the Gemini API.",
+  "requestFramePermissions": []
+}
